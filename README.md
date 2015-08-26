@@ -23,25 +23,25 @@ JS.
 #Usage | Example
 
 ```
-    <div class="custom-select">
-    <input id="custom-selector" type="radio" name="option_list" />
-    <label for="custom-selector">
-      <div class="cover"></div>
-      <ul class="options">
-        <li class="placeholder">Select an Option</li>
-        <li>
-          <input id="option-selector-1-radio" type="radio" name="option_list" />
-          <label for="option-selector-1-radio"><b>Option 1</b></label>
-        </li>
-        <li>
-          <input id="option-selector-2-radio" type="radio" name="option_list" />
-          <label for="option-selector-2-radio"><i>Option 2</i></label>
-        </li>
-        <li>
-          <input id="option-selector-3-radio" type="radio" name="option_list" />
-          <label for="option-selector-3-radio">Option 3</label>
-        </li>
-      </ul>
-    </label>
-  </div>
+<div class="custom-select">
+  <input id="custom-selector" type="radio" name="option_list" />
+  <label for="custom-selector">
+    <div class="cover"></div>
+    <ul class="options">
+      <li class="placeholder">Select an Option</li>
+      <li>
+        <input id="option-selector-1-radio" type="radio" name="option_list" />
+        <label for="option-selector-1-radio"><b>Option 1</b></label>
+      </li>
+      <li>
+        <input id="option-selector-2-radio" type="radio" name="option_list" />
+        <label for="option-selector-2-radio"><i>Option 2</i></label>
+      </li>
+      <li>
+        <input id="option-selector-3-radio" type="radio" name="option_list" />
+        <label for="option-selector-3-radio">Option 3</label>
+      </li>
+    </ul>
+  </label>
+</div>
 ```

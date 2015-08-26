@@ -45,3 +45,6 @@ JS.
   </label>
 </div>
 ```
+** Rendered Output **
+![closed select list](/../screenshots/screenshots/2015-08-25_21h45_16.png?raw=true "On initial load")
+![open select list](/../screenshots/screenshots/2015-08-25_21h45_38.png?raw=true "After clicking on the select")

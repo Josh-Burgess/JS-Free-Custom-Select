@@ -1,9 +1,9 @@
 ﻿# Scriptless Selects
 
 Usually if you want to style a custom select, you need a
-weighty plugin to either transliterate an existing select
-into a listaffect a whole bunch of JavaScript originated styling
-to that list, attach a bunch of custom event handlers to that
+weighty plugin to either translate an existing select
+into a list, apply a whole bunch of JavaScript originated styling
+to that list, attach a load of custom event handlers to that
 list and then force those handlers to update the original element.
 
 It's cumbersome, heavy-handed, and ultimately unnecessary.
